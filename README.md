@@ -1,5 +1,5 @@
-# دوره آموزشی توسعه وب با هوش مصنوعی و TensorFlow.js
-![دوره آموزشی توسعه وب با هوش مصنوعی و TensorFlow.js](https://github.com/Ali-Fayzi/tensorflowjs-tutorial/blob/main/tfjs.png?raw=true)
+# دوره  هوش مصنوعی در وب با TensorFlow.js (مقدماتی)
+![دوره  هوش مصنوعی در وب با TensorFlow.js (مقدماتی)](https://github.com/Ali-Fayzi/tensorflowjs-tutorial/blob/main/tfjs.png?raw=true)
 
 این دوره آموزشی تخصصی به منظور توانمندسازی توسعه‌دهندگان وب در استفاده از هوش مصنوعی با استفاده از TensorFlow.js طراحی شده است. TensorFlow.js یک کتابخانه قدرتمند جاوا اسکریپت است که به شما امکان می‌دهد مدل‌های یادگیری عمیق را به‌طور مستقیم در مرورگر وب ایجاد و اجرا کنید.
 
