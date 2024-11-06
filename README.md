@@ -47,7 +47,7 @@
 - بررسی Tensor در Memory و حذف Tensor از Memory در TensorFlow.JS
 
 ### آموزش سطح بالا - TensorFlow.js
-- Backend ها در TensorFlow.JS
+- آموزش Backend ها در TensorFlow.JS
 - ایجاد مدل در TensorFlow.JS
 - Compile کردن مدل و Train و Predict اولیه در TensorFlow.JS
 - آموزش مدل در TensorFlow.JS
